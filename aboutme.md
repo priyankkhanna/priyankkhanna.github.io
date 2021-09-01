@@ -35,4 +35,4 @@ I enjoy contributing to and being part of a motivated team of smart people explo
 
 
 <br>
-I am meticulous, dedicated, and passionate about my work. </h3><center>
+I am meticulous, dedicated, and passionate about my work.
