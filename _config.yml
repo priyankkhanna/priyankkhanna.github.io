@@ -1,13 +1,13 @@
 # --- General options --- #
 
 # Name of website
-title: Sankalp Arora
+title: Priyank Khanna
 
 # Short description of your site
 description: Let me introduce you to my geek side!
 
 # Your name to show in the footer
-author: Sankalp Arora
+author: Priyank Khanna
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -25,7 +25,7 @@ author: Sankalp Arora
 navbar-links:
   Recommends: "books"
   About Me: "aboutme"
-  Resume | CV: "CV_Sankalp_Arora_.pdf"
+  Resume | CV: "priyank_resume.pdf"
 #  Tags: "tags"
 
 # Image to show in the navigation bar - image must be a square (width = height)
@@ -56,11 +56,11 @@ round-avatar: true
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
 # email: "someone@example.com"
-  email: "10sankalp.arora@gmail.com"
-  linkedin: sankalp-arora-10bbbb9a
-  github: sankalp-s
+  email: "priyankkhanna2001@gmail.com"
+  linkedin: priyank-khanna
+  github: priyankkhanna
 # twitter: daattali
-  instagram: _shurui
+  instagram: priyankkhanna_
 # xing: yourname
 # stackoverflow: 4590331/anudit-verma
 # snapchat: yourname
@@ -99,7 +99,7 @@ google_analytics: "UA-155288589-1"
 # --- Comments --- #
 
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-disqus: "sankalpness"
+disqus: "pk"
 
 # To use Facebook Comments, fill in a Facebook App ID
 # fb_comment_id: ""
