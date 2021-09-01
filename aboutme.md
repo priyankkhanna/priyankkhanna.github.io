@@ -25,7 +25,7 @@ My interests lie in using Machine Learning and cutting-edge technologies for soc
 
 <p class="about-text">
 <span class="fa fa-heart about-icon"></span>
-Also, I am very fond of Reading books, my favorite genre are psychology and fantasy. I love to play Table Tennis, Volleyball and Chess. You will ususally find me reading books, chatting with friends or in learning something new. I am eager to meet and connect with new people at hackathons, developers’ conferences, dev-fests, meet ups, and sports meet.
+Also, I am very fond of Reading books, my favorite genre are psychology and fantasy. I love to play Table Tennis, Volleyball and Chess. You will ususally find me reading books, chatting with friends or learning something new. I am eager to meet and connect with new people at hackathons, developers’ conferences, dev-fests, meet ups, and sports meet.
 </p>
 
 <p class="about-text">
