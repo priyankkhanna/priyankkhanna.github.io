@@ -1,6 +1,6 @@
 ---
 layout: books
-title: Sankalp Arora - My Book Recommendations
+title: Priyank Khanna - My Book Recommendations
 ---
 <head>
 	<link rel="stylesheet" type="text/css" href="css/book_style.css" />
@@ -164,7 +164,4 @@ title: Sankalp Arora - My Book Recommendations
 				</div>
 			</div>			
 		</section>
-		<center>
-			<h3>Bookworm eh? Follow me on <a href="https://www.goodreads.com/user/show/121060799-sankalp-arora"><img src="goodreads_logo.png" /></a></h3>
-		</center>
 	</div>
